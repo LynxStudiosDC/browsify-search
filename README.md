@@ -19,7 +19,7 @@ The project is divided into the following folders:
 1. **Clone the Repository**
 
    ```sh
-   git clone <repository-url>
+   git clone https://github.com/The-CodingSloth/sloth-search.git
    cd sloth-search
    ```
 
@@ -40,7 +40,7 @@ pip install -r requirements.txt
 - The `Search` directory contains the code for crawling, indexing, and serving.
 - You can start the process by running:
   ```sh
-  python search/complete_exmaples/advanced_pagerank.py
+  python search/complete_examples/advanced_pagerank.py
   ```
 - This will crawl, index, and prepare the content for searching.
 - If you want to run any other files do the same process:
